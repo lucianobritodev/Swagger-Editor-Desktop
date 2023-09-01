@@ -1,0 +1,16 @@
+{
+  "dest": "build/installers/",
+  "icon": "assets/icons/Icon.png",
+  "categories": [
+    "Internet",
+    "Network",
+    "Utility",
+    "GNOME",
+    "GTK"
+  ],
+  "options": {
+    "name": "Swagger-Editor-Desktop",
+    "description": "A desktop client for Swagger Editor",
+    "arch": "amd64"
+  }
+}
